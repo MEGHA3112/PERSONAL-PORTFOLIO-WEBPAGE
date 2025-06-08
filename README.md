@@ -33,3 +33,4 @@ What makes this project stand out is how it merges aesthetics with function. It�
 In conclusion, this personal portfolio website is more than just a web page. It’s a digital identity — one that showcases Megha’s skills, confidence, and readiness to step into the professional world of development. It’s the kind of project every student or early-stage developer should have in their toolkit.
 
 OUTPUT:-
+![Image](https://github.com/user-attachments/assets/284a724c-9b25-4f9e-9c51-6f1b8eb8089a)![Image](https://github.com/user-attachments/assets/284a724c-9b25-4f9e-9c51-6f1b8eb8089a)
